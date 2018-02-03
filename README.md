@@ -1,1 +1,1 @@
-# What do you want to cook?
+# Ready to cook?

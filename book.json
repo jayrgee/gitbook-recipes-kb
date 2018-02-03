@@ -1,3 +1,4 @@
 {
-    "plugins": [ "theme-faq" ]
+  "title": "recipes",
+  "plugins": ["theme-faq"]
 }
